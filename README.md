@@ -21,7 +21,7 @@ SETUP INSTRUCTIONS
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/nasa-explorer.git
+git clone https://github.com/KhafilMatti/nasa-explorer.git
 cd nasa-explorer
 
 2. GET NASA API KEY
